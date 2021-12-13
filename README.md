@@ -1,6 +1,6 @@
 # Cara
 <h1 align="center"> <b>CARA- Your Very Own Virtual Assistant</b></h1>
-### **What is the project all about?**
+### **What is the Project all about?**
 We have created a virtual AI assistant CARA with help 
 of Python and Python modules. CARA can help users in 
 performing various class of tasks without moving their
